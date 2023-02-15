@@ -1,1 +1,1 @@
-SHELL BASICS
+0x02-shell_redirections
